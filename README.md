@@ -1,4 +1,5 @@
 # LIBRARY-MANAGEMENT-SYSTEM
+[Library Management System.pdf](https://github.com/user-attachments/files/20351922/Library.Management.System.pdf)
 
 This C++ project implements a comprehensive Library Management System using Object-Oriented Programming (OOP) principles such as encapsulation, constructors (parameterized, copy, default), and data constraints. It manages books, members, and their interactions with full validation logic.
 
