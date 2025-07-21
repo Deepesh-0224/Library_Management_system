@@ -1,4 +1,4 @@
-#include<Library_class.h>
+#include<Library.h>
 
 int main()
 {
