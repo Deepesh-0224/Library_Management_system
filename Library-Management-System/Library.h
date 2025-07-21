@@ -1,4 +1,4 @@
-#include<Member_class.h>
+#include<Member.h>
 
 // Library class managing all books and members
 class library
